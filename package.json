@@ -1,0 +1,15 @@
+{
+  "name": "jestPlayGround",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "npx jest --watchAll --verbose"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0"
+  }
+}
